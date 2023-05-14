@@ -4,6 +4,8 @@ STEPS :
 npm  install for both SERVER AND TESTING 
 
 install MongoDb 
+
 npm start  server and testing
+
 connect MongoDb 
 
